@@ -30,25 +30,7 @@ export default function NavBar() {
                   </Link>
                 </li>
       
-                <li>
-                  <Link
-                    class="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
-                    href="/careers"
-                  > 
-                  {""}
-                    Careers {""}
-                  </Link>
-                </li>
-      
-                <li>
-                  <Link
-                    class="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
-                    href="/history"
-                  >
-                    {""}
-                    History {""}
-                  </Link>
-                </li>
+
       
                 <li>
                   <Link
@@ -70,25 +52,6 @@ export default function NavBar() {
                   </Link>
                 </li>
       
-                <li>
-                  <Link
-                    class="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
-                    href="/blog"
-                  >
-                    {""}
-                    Blog  {""}
-                  </Link>
-                </li>
-
-                <li>
-                  <Link
-                    class="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"
-                    href="/about_yenuka"
-                  >
-                    {""}
-                    Yenuka_x  {""}
-                  </Link>
-                </li>
 
 
                 
