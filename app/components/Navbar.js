@@ -1,6 +1,8 @@
 import Link from "next/link";
 import React from "react";
+
 import { UserButton } from "@clerk/nextjs";
+
 
 export default function NavBar() {
     return (
@@ -74,6 +76,12 @@ export default function NavBar() {
                   Register
                 </Link>
               </div>
+
+          
+          
+              
+
+             
 
               <UserButton />
       
